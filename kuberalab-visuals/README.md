@@ -1,27 +1,32 @@
-# KUBERALAB — Iconic Series 001
+# KUBERALAB ♄
 
-**AI visual design for luxury, power and future mobility.**
+## We don't illustrate machines. We build their mythology.
 
-KUBERALAB creates premium editorial-style visual concepts for high-end machines, mobility, technology and lifestyle brands.
+**AI Art Direction · Luxury Machines · Future Mythology**
 
-## Collection 001
+KUBERALAB is a visual laboratory for objects that already feel larger than life — supercars, armor, yachts, industrial giants and future mobility.
 
-- Armored trucks
-- Mega yachts
-- Mega tractors
-- Electric mountain bikes
+Precision on the surface. Myth underneath.
 
-## Creative direction
+### ICONIC SERIES 001
 
-Minimal luxury layouts, warm neutral palettes, precision typography, product-focused composition and a subtle Saturn signature.
+- **ARMORED POWER** — Protection · Force · Presence
+- **MEGA YACHTS** — Ocean · Scale · Silence
+- **MEGA TRACTORS** — Earth · Torque · Dominion
+- **E-MOUNTAIN BIKES** — Voltage · Terrain · Motion
 
-## Services
+### POSTER → MOTION
 
-- AI art direction
-- Luxury product posters
-- Automotive & mobility visuals
-- Social media campaign concepts
-- Brand moodboards
-- Short-form video concepts & prompts
+The image does not end at the frame. KUBERALAB develops static campaign art into cinematic motion concepts, including an interactive seven-second supercar race demonstration.
 
-**KUBERALAB** — visual ideas built to look like a campaign, not a template.
+### THE LAB
+
+**Campaign Worlds** — editorial posters, hero visuals and coherent visual systems.
+
+**Motion Concepts** — static-to-motion direction, cinematic prompts, reveals and short-form sequences.
+
+**Visual Mythology** — symbolism, atmosphere and identity, marked by the restrained Saturn seal ♄.
+
+> Power becomes memorable when engineering gains an aura.
+
+**KUBERALAB · SATURN SEAL · 2026**
