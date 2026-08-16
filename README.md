@@ -21,3 +21,12 @@ Building AI agents for HR/compliance, document templates and country playbooks.
 - `kubera-ai-prompts` — промты для рекрутинга и писем
 
 > Обновляю еженедельно • MIT • RU/EN
+
+
+## Japanese Doll Collection — Instagram & AI Motion
+
+A complete content system and live portfolio for presenting an original Japanese doll collection through Instagram Reels and seven-second AI motion films.
+
+- Live page: https://jobkubera-lab.github.io/NikolaKubera/japanese-dolls/
+- Source: [kuberalab-visuals/japanese-dolls](kuberalab-visuals/japanese-dolls)
+- Prompt library: https://github.com/jobkubera-lab/kubera-ai-prompts/tree/main/japanese-dolls
