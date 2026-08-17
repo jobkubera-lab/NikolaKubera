@@ -1,6 +1,6 @@
-# NikolaKubera
+# NikolayKubera
 AI-powered migration consultant · Visas &amp; job placement · Denmark/Czechia/Norway/Iceland · Kubera LLC (US/WY)
-# Nikolay Shcheglov — Kubera Migration & AI
+# Nikolayy Shcheglov — Kubera Migration & AI
 
 **AI-powered migration consultant.** Visas, job placement & global mobility.  
 Building AI agents for HR/compliance, document templates and country playbooks.
@@ -27,6 +27,6 @@ Building AI agents for HR/compliance, document templates and country playbooks.
 
 A complete content system and live portfolio for presenting an original Japanese doll collection through Instagram Reels and seven-second AI motion films.
 
-- Live page: https://jobkubera-lab.github.io/NikolaKubera/japanese-dolls/
+- Live page: https://jobkubera-lab.github.io/NikolayKubera/japanese-dolls/
 - Source: [kuberalab-visuals/japanese-dolls](kuberalab-visuals/japanese-dolls)
 - Prompt library: https://github.com/jobkubera-lab/kubera-ai-prompts/tree/main/japanese-dolls
