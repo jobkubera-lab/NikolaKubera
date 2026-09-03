@@ -27,6 +27,10 @@ The image does not end at the frame. KUBERALAB develops static campaign art into
 
 **Visual Mythology** — symbolism, atmosphere and identity, marked by the restrained Saturn seal ♄.
 
+### PRODUCTION RULES
+
+The reusable ICONIC SERIES production pack lives in [`iconic-series/`](./iconic-series/): master visual rules, poster-to-motion prompt, Instagram caption structure and a pre-publish quality checklist.
+
 > Power becomes memorable when engineering gains an aura.
 
 **KUBERALAB · SATURN SEAL · 2026**
