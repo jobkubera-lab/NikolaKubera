@@ -1,32 +1,28 @@
-# NikolaKubera
-AI-powered migration consultant · Visas &amp; job placement · Denmark/Czechia/Norway/Iceland · Kubera LLC (US/WY)
-# Nikola Shcheglov — Kubera Migration & AI
+# KUBERALAB Visual Prototypes
 
-**AI-powered migration consultant.** Visas, job placement & global mobility.  
-Building AI agents for HR/compliance, document templates and country playbooks.
+Creative and visual experimentation repository maintained by **jobkubera-lab**.
 
-- 🌍 Focus: Denmark · Czechia · Norway · Iceland
-- 🤖 Stack: LLM · Agents · GitHub Actions · Vercel
-- 🧾 Services: visa checklists, CV/cover letters, employer letters
-- 🌐 Website: https://kuberajob.com  
-- ✉️ Telegram: https://t.me/kuberababa · Email: contact@kuberajob.com
+This repository is not the primary KUBERA engineering portfolio. The main technical work on AI agents, AI assurance, civic AI and evidence-led systems is maintained here:
 
-### RU
-ИИ-консультант по миграции: визы, трудоустройство, ВНЖ.  
-Шаблоны документов, чек-листы по странам, AI-автоматизация для HR.
+- [jobkubera-lab profile and KUBERA LAB](https://github.com/jobkubera-lab/jobkubera-lab)
+- [KUBERA AGENT OS](https://github.com/jobkubera-lab/kubera-local-ai)
 
-**Репозитории:**
-- `kubera-visa-playbooks` — пошаговые гайды по странам
-- `kubera-migration-templates` — CV/cover letters, письма работодателю
-- `kubera-ai-prompts` — промты для рекрутинга и писем
+## Current visual work
 
-> Обновляю еженедельно • MIT • RU/EN
+### Japanese Doll Collection — Instagram & AI Motion
 
+A visual-production system for presenting an original Japanese doll collection through short-form video, prompt design and AI-assisted motion experiments.
 
-## Japanese Doll Collection — Instagram & AI Motion
+- [Source files](kuberalab-visuals/japanese-dolls)
+- [Prompt library](https://github.com/jobkubera-lab/kubera-ai-prompts/tree/main/japanese-dolls)
 
-A complete content system and live portfolio for presenting an original Japanese doll collection through Instagram Reels and seven-second AI motion films.
+## Scope
 
-- Live page: https://jobkubera-lab.github.io/NikolaKubera/japanese-dolls/
-- Source: [kuberalab-visuals/japanese-dolls](kuberalab-visuals/japanese-dolls)
-- Prompt library: https://github.com/jobkubera-lab/kubera-ai-prompts/tree/main/japanese-dolls
+This repository is used for:
+
+- visual concept development;
+- prompt-driven image and motion workflows;
+- short-form creative production experiments;
+- reusable visual-production assets.
+
+For engineering projects, tests and system architecture, use the main KUBERA LAB repositories linked above.
